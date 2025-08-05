@@ -18,7 +18,7 @@
 
 ### 프론트엔드 개발
 - [이현진](깃링크)  
-- [우지윤]([https://github.com/your-jiyoon-github)
+- [우지윤](https://github.com/your-jiyoon-github)
 
 ### 백엔드 개발
 - [이강현](깃링크)  
